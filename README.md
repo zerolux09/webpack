@@ -1,10 +1,2 @@
-# webpack
-my webpack script
-
-
-+
-+
-+
-
-
+wMDCgpR
 
